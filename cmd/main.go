@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	openai "github.com/runnart/go-openaiclient"
+	openai "github.com/gopenai/openai-client"
 )
 
 func main() {

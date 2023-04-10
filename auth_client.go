@@ -1,4 +1,4 @@
-package go_openaiclient
+package openaiclient
 
 import (
 	"fmt"
