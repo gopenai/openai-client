@@ -1,4 +1,4 @@
-module github.com/runnart/go-openaiclient
+module github.com/gopenai/openai-client
 
 go 1.19
 

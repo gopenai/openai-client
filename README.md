@@ -1,4 +1,4 @@
-# OpenAI Golang SDK [![Go Reference](https://pkg.go.dev/badge/github.com/runnart/go-openaiclient.svg)](https://pkg.go.dev/github.com/runnart/go-openaiclient)
+# OpenAI Golang SDK [![Go Reference](https://pkg.go.dev/badge/github.com/gopenai/openai-client.svg)](https://pkg.go.dev/github.com/gopenai/openai-client)
 
 This is an unofficial Golang SDK for the OpenAI API. It provides a simple and easy-to-use way to interact with the OpenAI API using Golang.
 
@@ -7,7 +7,7 @@ This is an unofficial Golang SDK for the OpenAI API. It provides a simple and ea
 To install the OpenAI Golang SDK, simply run:
 
 ```sh
-go get github.com/runnart/go-openaiclient
+go get github.com/gopenai/openai-client
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ import (
 	"context"
 	"fmt"
 
-	openai "github.com/runnart/go-openaiclient"
+	openai "github.com/gopenai/openai-client"
 )
 
 func main() {
@@ -75,7 +75,7 @@ import (
 	"fmt"
 	"os"
 
-	openai "github.com/runnart/go-openaiclient"
+	openai "github.com/gopenai/openai-client"
 )
 
 func main() {
@@ -114,4 +114,4 @@ This SDK is open source, and contributions are welcome! If you have any bug repo
 
 ## Licence
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/runnart/go-openaiclient/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/gopenai/openai-client/blob/main/LICENSE) file for details.
