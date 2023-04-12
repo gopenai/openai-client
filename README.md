@@ -2,6 +2,11 @@
 
 This is an unofficial Golang SDK for the OpenAI API. It provides a simple and easy-to-use way to interact with the OpenAI API using Golang.
 
+## Features
+- **Easy-to-use**: The SDK provides a simple and easy-to-use interface for interacting with the OpenAI API, allowing you to quickly integrate AI capabilities into your Golang projects.
+- **Support for OpenTelemetry**: The SDK comes with built-in support for OpenTelemetry, allowing you to capture RED metrics and spans for traces out-of-the-box.
+- **Fully configurable**: The SDK is fully configurable, allowing you to customize its behavior to suit your specific needs.
+
 ## Installation
 
 To install the OpenAI Golang SDK, simply run:
@@ -107,6 +112,10 @@ func main() {
 }
 
 ```
+
+## TODO:
+- [x] Bearer auth
+- [ ] Streaming-api support
 
 ## Contributing
 
